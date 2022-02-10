@@ -1,3 +1,4 @@
 # LAB3-CVDS
-Francisco Javier Rojas Muñoz
-Juan Camilo Rojas Castro
+## Integrantes
+- Francisco Javier Rojas Muñoz
+- Juan Camilo Rojas Castro
